@@ -1,6 +1,6 @@
 $schema: https://azuremlschemas.azureedge.net/latest/pipelineJob.schema.json
 type: pipeline
-name:test-name
+name: test-name
 experiment_name: taxi-fare-training
 description: Training Pipeline to train a model that predicts taxi fare price
 
