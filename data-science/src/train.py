@@ -155,6 +155,8 @@ if __name__ == "__main__":
 
     for line in lines:
         print(line)
+    
+    print(args.train_data)
 
     main(args)
 
